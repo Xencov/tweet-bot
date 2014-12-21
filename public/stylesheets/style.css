@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.panel {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin-right: 5px;
+}
+
+.col-md-4 {
+  width: 32.0% !important;
+}
+
+.panel-body {
+  max-height: 400px !important;
+  overflow-x: scroll !important;
+}
+
+.footer {
+  position: absolute !important;
+  bottom: 0 !important;
+}
